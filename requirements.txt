@@ -8,3 +8,4 @@ retina-face
 scikit-learn
 cryptography
 Pillow
+tf-keras
