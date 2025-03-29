@@ -1,7 +1,10 @@
 streamlit
 opencv-python
 numpy
-retinaface
+torch
+torchvision
+facenet-pytorch
+retina-face
 scikit-learn
 cryptography
-keras-facenet
+Pillow
